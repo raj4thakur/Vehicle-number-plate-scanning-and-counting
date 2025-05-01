@@ -1,0 +1,794 @@
+[
+    {
+        "vehicle_id": 0,
+        "vehicle_type": "car",
+        "number_plate": "Nai3 NRU",
+        "time": "2024-10-24 13:10:49"
+    },
+    {
+        "vehicle_id": 3,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:50"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:50"
+    },
+    {
+        "vehicle_id": 4,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:50"
+    },
+    {
+        "vehicle_id": 8,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:50"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:51"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:51"
+    },
+    {
+        "vehicle_id": 2,
+        "vehicle_type": "car",
+        "number_plate": "NAJ NRU",
+        "time": "2024-10-24 13:10:51"
+    },
+    {
+        "vehicle_id": 1,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:52"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:52"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:53"
+    },
+    {
+        "vehicle_id": 5,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:54"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:54"
+    },
+    {
+        "vehicle_id": 7,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:55"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:55"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:55"
+    },
+    {
+        "vehicle_id": 6,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:58"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:58"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:10:58"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:07"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:07"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:12"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:13"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:20"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:21"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:42"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:11:54"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "Wi4cr",
+        "time": "2024-10-24 13:12:04"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "CC",
+        "time": "2024-10-24 13:12:05"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "cn",
+        "time": "2024-10-24 13:12:06"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "cn",
+        "time": "2024-10-24 13:12:06"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:12"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "truck",
+        "number_plate": "[G6S USJ",
+        "time": "2024-10-24 13:12:14"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "truck",
+        "number_plate": "BG65 uSJ",
+        "time": "2024-10-24 13:12:14"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:15"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:15"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:16"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "truck",
+        "number_plate": "BG6S US J",
+        "time": "2024-10-24 13:12:17"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:18"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:25"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:25"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:26"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:27"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:28"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:31"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:39"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:42"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:43"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:46"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:12:49"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:04"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:11"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:13"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:24"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:37"
+    },
+    {
+        "vehicle_id": 6,
+        "vehicle_type": "car",
+        "number_plate": "KBY",
+        "time": "2024-10-24 13:13:47"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "car",
+        "number_plate": "KKBY",
+        "time": "2024-10-24 13:13:48"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "KBY",
+        "time": "2024-10-24 13:13:48"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "KB",
+        "time": "2024-10-24 13:13:49"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:49"
+    },
+    {
+        "vehicle_id": 7,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:54"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:13:54"
+    },
+    {
+        "vehicle_id": 5,
+        "vehicle_type": "car",
+        "number_plate": "24hr",
+        "time": "2024-10-24 13:14:02"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:04"
+    },
+    {
+        "vehicle_id": 6,
+        "vehicle_type": "car",
+        "number_plate": "EYo9DS",
+        "time": "2024-10-24 13:14:04"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:05"
+    },
+    {
+        "vehicle_id": 7,
+        "vehicle_type": "car",
+        "number_plate": "DoTT9",
+        "time": "2024-10-24 13:14:05"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:06"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:06"
+    },
+    {
+        "vehicle_id": 8,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:07"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:08"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:08"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:10"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:12"
+    },
+    {
+        "vehicle_id": 16,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:13"
+    },
+    {
+        "vehicle_id": 17,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:13"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:14"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:16"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:17"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "LUR",
+        "time": "2024-10-24 13:14:21"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "LUR",
+        "time": "2024-10-24 13:14:21"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:23"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:27"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:28"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:34"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:34"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:35"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:36"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:39"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:40"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:43"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:14:49"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:09"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:15"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:21"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "car: 0.89",
+        "time": "2024-10-24 13:15:22"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:23"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "truck",
+        "number_plate": "car:",
+        "time": "2024-10-24 13:15:24"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:24"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "truck",
+        "number_plate": "car: 0.80",
+        "time": "2024-10-24 13:15:25"
+    },
+    {
+        "vehicle_id": 8,
+        "vehicle_type": "truck",
+        "number_plate": "car: 0.81",
+        "time": "2024-10-24 13:15:25"
+    },
+    {
+        "vehicle_id": 7,
+        "vehicle_type": "truck",
+        "number_plate": "car: 0.78",
+        "time": "2024-10-24 13:15:26"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "car: 0.79",
+        "time": "2024-10-24 13:15:27"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "car:",
+        "time": "2024-10-24 13:15:27"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:28"
+    },
+    {
+        "vehicle_id": 8,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:29"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:29"
+    },
+    {
+        "vehicle_id": 9,
+        "vehicle_type": "truck",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:31"
+    },
+    {
+        "vehicle_id": 7,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:32"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:33"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:33"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:34"
+    },
+    {
+        "vehicle_id": 10,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:35"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:36"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:38"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:42"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:49"
+    },
+    {
+        "vehicle_id": 11,
+        "vehicle_type": "car",
+        "number_plate": "FuC",
+        "time": "2024-10-24 13:15:55"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "Kug",
+        "time": "2024-10-24 13:15:56"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "0.74",
+        "time": "2024-10-24 13:15:56"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "2.71",
+        "time": "2024-10-24 13:15:56"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:15:59"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:01"
+    },
+    {
+        "vehicle_id": 12,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:11"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:12"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": ").64",
+        "time": "2024-10-24 13:16:13"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:13"
+    },
+    {
+        "vehicle_id": 13,
+        "vehicle_type": "car",
+        "number_plate": "GiB",
+        "time": "2024-10-24 13:16:23"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "Sr",
+        "time": "2024-10-24 13:16:26"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:27"
+    },
+    {
+        "vehicle_id": 14,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:31"
+    },
+    {
+        "vehicle_id": 15,
+        "vehicle_type": "car",
+        "number_plate": "N/A",
+        "time": "2024-10-24 13:16:32"
+    }
+]
